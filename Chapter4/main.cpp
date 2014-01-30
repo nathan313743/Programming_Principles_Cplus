@@ -1,17 +1,15 @@
 #include <iostream>
-#include "src/ex7.cpp"
+#include "src/Ex7.cpp"
 #include "src/ex5.cpp"
 #include "src/ex6.cpp"
+#include "src/Ex8.cpp"
+#include "src/Ex9.cpp"
 using namespace std;
 
 int main()
 {
-	cout << "Hi there" << endl;
-
-
-	Ex6 ex6;
-	ex6.ToEnglish();
-
+	Ex9 ex9;
+	ex9.Go();
 
 	return 0;
 }

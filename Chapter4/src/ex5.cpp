@@ -36,7 +36,6 @@ public:
 		default:
 			cout << "Does not compute" << endl;
 		}
-
 	}
 };
 #endif
