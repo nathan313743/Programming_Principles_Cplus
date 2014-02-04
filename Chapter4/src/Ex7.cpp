@@ -1,5 +1,5 @@
-#ifndef EX6
-#define EX6
+#ifndef EX7
+#define EX7
 #include <iostream>
 #include <vector>
 using namespace std;

@@ -4,12 +4,13 @@
 #include "src/ex6.cpp"
 #include "src/Ex8.cpp"
 #include "src/Ex9.cpp"
+#include "src/Ex10.cpp"
 using namespace std;
 
 int main()
 {
-	Ex9 ex9;
-	ex9.Go();
+	Ex10 ex10;
+	ex10.Go();
 
 	return 0;
 }
