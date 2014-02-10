@@ -34,8 +34,6 @@ public:
 			{
 				if(vecNums[j] % vecNums[i] == 0 && vecNums[j] != -1)
 				{
-					//cout << "i " << vecNums[i] << endl;
-					//cout << "j " << vecNums[j] << endl;
 					//not a prime
 					vecNums[j] = -1;
 				}
