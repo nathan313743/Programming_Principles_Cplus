@@ -28,7 +28,7 @@ public:
 		{
 			if(vecNums[i] == -1)
 			{
-				cout << "i " << vecNums[i] << endl;	// Why is this -1?
+				continue;
 			}
 			for(int j = i+1; j < vecNums.size(); ++j)
 			{
